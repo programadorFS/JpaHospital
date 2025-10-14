@@ -1,3 +1,4 @@
+
 package org.example.entidades;
 
 public enum TipoSangre {
@@ -18,5 +19,5 @@ public enum TipoSangre {
 
     public String getValor() {
         return valor;
-    }
+    }
 }
